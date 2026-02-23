@@ -64,16 +64,17 @@ function renderTasks() {
 
     emptyState.classList.add('hidden');
 
-    filtered.forEach(task => {
-        const el = createTaskElement(task);
+    filtered.forEach((task, index) => {
+        const el = createTaskElement(task, index);
         list.appendChild(el);
     });
 }
 
-function createTaskElement(task) {
+function createTaskElement(task, index) {
     const div = document.createElement('div');
-    div.className = `task-item ${task.completed ? 'completed' : ''}`;
+    div.className = `task-item glass ${task.completed ? 'completed' : ''}`;
     div.dataset.id = task._id;
+    div.style.animationDelay = `${index * 0.05}s`;
 
     const date = new Date(task.createdAt).toLocaleDateString('en-US', {
         month: 'short', day: 'numeric', year: 'numeric',

@@ -1,3 +1,2 @@
-{"title":"Learn NodeJS","description":"Debug the Code to understand it working","priority":"high","completed":false,"user":"7KLekWIUaLtP05h0","createdAt":{"$$date":1771829291844},"updatedAt":{"$$date":1771829291844},"_id":"SlP44SQxlOl8Rlc8"}
-{"title":"Learn NodeJS","description":"Debug the Code to understand it working","priority":"high","completed":true,"user":"7KLekWIUaLtP05h0","createdAt":{"$$date":1771829291844},"updatedAt":{"$$date":1771829314965},"_id":"SlP44SQxlOl8Rlc8"}
 {"title":"Push codebase to Github","description":"Do it as Soon as possible","priority":"medium","completed":false,"user":"7KLekWIUaLtP05h0","createdAt":{"$$date":1771830094957},"updatedAt":{"$$date":1771830094957},"_id":"GJd4yB39UbMZE52i"}
+{"title":"Learn NodeJS","description":"Debug the Code to understand it working","priority":"high","completed":true,"user":"7KLekWIUaLtP05h0","createdAt":{"$$date":1771829291844},"updatedAt":{"$$date":1771829314965},"_id":"SlP44SQxlOl8Rlc8"}
