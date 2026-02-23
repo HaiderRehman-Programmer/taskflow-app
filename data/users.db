@@ -1,0 +1,3 @@
+{"$$indexCreated":{"fieldName":"email","unique":true,"sparse":false}}
+{"$$indexCreated":{"fieldName":"email","unique":true}}
+{"name":"Haider Rehman","email":"haiderrehmanryk@gmail.com","password":"$2a$10$XMfObqQjCn81/hkoiXRlpOpSBtCk5Vy7mpK/hGM7FJ4LS0iklxE7m","createdAt":{"$$date":1771829227685},"_id":"7KLekWIUaLtP05h0"}
